@@ -1,4 +1,4 @@
-## Olá tudo bem? Me chamo Diogo Kranz sou estudante de ADS
+## Sejam bem vindos !!!! Sou estudante de ADS, aqui mostrarei um pouco dos meus projetos.
 
 
 <div style="display: inline_block"><br>
