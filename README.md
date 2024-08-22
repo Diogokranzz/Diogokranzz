@@ -25,6 +25,6 @@ Gosto bastante da Tecnologia, apaixonado pela programação e sempre conhecendo 
 <details align="left">
   <summary></summary> 
  
-  <div align="right">Desenvolvimento Realizado Por (DK)<a href="(https://github.com/Diogokranzz)"></a>.</div>
+  <div align="center">Desenvolvimento Realizado Por (DK)<a href="(https://github.com/Diogokranzz)"></a>.</div>
 
 </details>
