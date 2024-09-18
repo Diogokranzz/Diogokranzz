@@ -1,30 +1,58 @@
-<h1>
-    <a href="(https://github.com/Diogokranzz)">
-     <img align="center" alt="(Dk)" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
-    <span>Diogo Kranz</span>
-</h1>
+<div align="center">
+   <img src="./line.gif" alt="linha"/>
+</div><br>
 
-<p align="justify" style="font-size:500">
-  Estudante de programação Análise e Desenvolvimento De Sistemas, tenho conhecimento com Front End, Back End.
-  <br>
-</p>
- 
-Gosto bastante da Tecnologia, apaixonado pela programação e sempre conhecendo diversas linguagens.
-     <br>
-</p>
-
-<div align="Center">
-<img src="https://github.com/user-attachments/assets/96cd737f-60fb-499e-86f4-21611c005b8d"width=“60” height=“40” />
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" alt="Hello, World!" width="500px">
 </div>
 
+<div align="center">
+   <img src="./line.gif" alt="linha"/>
+</div><br>
 
-### Conexão:
+<h2>👨‍💻 Analista De Sistemas</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/diogo-kranz-490465307/)
+<p>Atualmente sou um <strong>Desenvolvedor de Sistemas e Web </strong>,sou apaixonado em criar projetos e melhorar sempre a interface dos usuários.
+    
+<p>Atualmente, curso <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade Anhembi Morumbi</strong>, o curso está cada vez mais deixando um legado para mim, sempre estou aprendendo cada dia um pouco mais sobre programação, sistemas, Web Page, projetos de extensão utilziando linguagens de programção.</p>
 
-<details align="left">
-  <summary></summary> 
- 
-  <div align="center">Desenvolvimento Realizado Por (DK)<a href="(https://github.com/Diogokranzz)"></a>.</div>
+<h2>Meu Aprendizado:</h2>
 
-</details>
+<p>🚀 <strong>Desenvolvimento Front-End.</p>
+
+
+
+<p>🌟 <strong> Experiência do Usuário: </strong> Desenvolvedor Web<strong>UX/UI Design/Programador</strong></p>
+
+<p>🛠️ <strong>Trazendo sempre um execelente resultado de usuário.</strong>
+
+<p>💻 <strong>Meu Desenvolvimento contínuo:</strong> Maior foco no Front End, onde é a área mais interessante no momento, também cada vez mais aprimorando meu conhecimento com Python para focalizar no Back End.</p>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div><br><br>
+
+<p> Em busca do meu primeiro estágio, estou muito animado em trabalhar na área de programação Web.</p><br>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/diogo-kranz-490465307/">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</div><br>
+
+<div align="center">
+    <a href="https://github.com/Diogokranzz">
+        <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Diogokranzz&show_icons=true&border_radius=12&border_color=EAFF17&icon_color=EAFF17&bg_color=0D1117&title_color=ffff&text_color=A3A3A3&ring_color=8844EE&card_width=437" alt="GitHub Stats">
+    </a>
+    <a href="https://github.com/Diogokranzz">
+        <img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=eduardzs&border_radius=12&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=497&background=0D1117&ring=8844EE&fire=EAFF17&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=A3A3A3&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&stroke=EAFF17&border=EAFF17&card_width=437" alt="GitHub Streak Stats">
+    </a>
+    <div align="center">
+</div>
