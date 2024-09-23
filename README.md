@@ -20,7 +20,7 @@
 
 <p>🚀 <strong>Desenvolvimento Front-End.</p>
 
-
+<p>🚀 <strong>Desenvolvimento Back-End.</p>
 
 <p>🌟 <strong> Experiência do Usuário: </strong> Desenvolvedor Web<strong>UX/UI Design/Programador</strong></p>
 
