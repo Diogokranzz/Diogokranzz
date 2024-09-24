@@ -21,7 +21,7 @@
 
 <p>Atualmente sou um <strong>Desenvolvedor de Sistemas e Web </strong>,sou apaixonado em criar projetos e melhorar sempre a interface dos usuários.
     
-<p>Atualmente, curso <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade Anhembi Morumbi</strong>, o curso está cada vez mais deixando um legado para mim, sempre estou aprendendo cada dia um pouco mais sobre programação, sistemas, Web Page, projetos de extensão utilziando linguagens de programção.</p>
+<p>Atualmente, curso <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade Anhembi Morumbi</strong>, cada vez mais o curso está deixando um legado para mim, estou aprendendo cada dia um pouco mais sobre programação, sistemas, Web Page, projetos de extensão e utilizando linguagens de programção.</p>
 
 <h2>Meu Aprendizado:</h2>
 
