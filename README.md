@@ -1,82 +1,73 @@
 <div align="center">
-   <img src="./line.gif" alt="linha"/>
-</div><br>
 
+## Olá 👋, Eu sou o Diogo Kranz!
+
+</div>
+
+
+
+Sou um desenvolvedor apaixonado por [suas áreas de interesse, ex: desenvolvimento web, APIs, etc. - *Preencha com suas áreas!*]. Estou sempre buscando aprender novas tecnologias e construir projetos incríveis.
+
+---
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" alt="Olá Mundo!" width="500px">
+
+## 🚀 Habilidades
 </div>
 
 <div align="center">
-   <img src="./line.gif" alt="linha"/>
-</div><br>
+   
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<!-- Adicione mais badges, se quiser -->
 
-<br> 
+</div>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=FF000&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+Me+Chamo+Diogo+Kranz;Eu+Tenho+21+Anos;Eu+Sou+Desenvolvedor+De+Sistemas;Eu+Moro+No+Brasil;Sejam+Muito+Bem+Vindos%3A)](https://git.io/typing-svg)
+---
 
+<div align="center">
+
+## 📊 Estatísticas do GitHub
+
+</div>
+
+<div align="center">
+
+[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Diogokranzz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogokranzz&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+<br>
+
+---
+<div align="center">
+
+## 💻 Projetos em Destaque
+
+</div>
+
+| Projeto                                      | Descrição                                                                                                                                                              | Tecnologias                                                                                                                              | Link                                                                           |
+| :------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
+| [IP-Locator](https://github.com/Diogokranzz/IP-Locator)     | Ferramenta para localizar informações geográficas a partir de um endereço IP. Utiliza uma API externa para obter os dados e os exibe de forma organizada.       | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  ![HTML5](https://img.shields.io/badge/-HTML-red) ![CSS3](https://img.shields.io/badge/-CSS-blue)                       | [Repositório](https://github.com/Diogokranzz/IP-Locator)        |
+| [StatusFlight](https://github.com/Diogokranzz/StatusFlight) | Aplicação para consultar informações sobre voos em tempo real. Permite buscar voos por aeroporto, companhia aérea e número do voo (requer chave de API). | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  ![HTML5](https://img.shields.io/badge/-HTML-red) ![CSS3](https://img.shields.io/badge/-CSS-blue)  | [Repositório](https://github.com/Diogokranzz/StatusFlight) |
+| [APP-Restaurante](https://github.com/Diogokranzz/APP-Restaurante)   |  Aplicativo de restaurante com cardápio digital, sistema de pedidos e integração com banco de dados (simulado). Demonstra conceitos de CRUD.                                         | ![Java](https://img.shields.io/badge/-Java-red)                                            | [Repositório](https://github.com/Diogokranzz/APP-Restaurante)                    |
 
 <br>
 
-<h2>👨‍💻 Analista De Sistemas</h2>
+---
 
-<p>Atualmente sou um <strong>Desenvolvedor de Sistemas e Web </strong>,sou apaixonado em criar projetos e melhorar sempre a interface dos usuários.
-    
-<p>Atualmente, curso <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade Anhembi Morumbi</strong>, cada vez mais o curso está deixando um legado para mim, estou aprendendo cada dia um pouco mais sobre programação, sistemas, Web Page, projetos de extensão e utilizando linguagens de programção.</p>
+## 📫 Contato
 
-<h2>Meu Aprendizado:</h2>
+*   **Email:** diogokranz11@gmail.com
+*   **LinkedIn:** [https://www.linkedin.com/in/diogo-kranz-490465307/](https://www.linkedin.com/in/diogo-kranz-490465307/)
 
-<p>🚀 <strong>Desenvolvimento Front-End.</p>
+---
 
-<p>🚀 <strong>Desenvolvimento Back-End.</p>
-
-<p>🌟 <strong> Experiência do Usuário: </strong> Desenvolvedor Web<strong>UX/UI Design/Programador</strong></p>
-
-<p>🛠️ <strong>Trazendo sempre um execelente resultado de usuário.</strong>
-
-<p>💻 <strong>Meu Desenvolvimento contínuo:</strong> Maior foco no Front End, onde é a área mais interessante no momento, também cada vez mais aprimorando meu conhecimento com Python para focalizar no Back End.</p>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-</div><br><br>
-
-<p> Em busca do meu primeiro estágio, estou muito animado em trabalhar na área de programação Web.</p><br>
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/diogo-kranz-490465307/">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</div><br>
-
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/Diogokranzz?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
-
-</div>
-
-<div align="center">
-    <a href="https://github.com/Diogokranzz">
-        <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Diogokranzz&show_icons=true&border_radius=12&border_color=EAFF17&icon_color=EAFF17&bg_color=0D1117&title_color=ffff&text_color=A3A3A3&ring_color=8844EE&card_width=437" alt="GitHub Stats">
-    </a>
-    <a href="https://github.com/Diogokranzz">
-        <img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=eduardzs&border_radius=12&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=497&background=0D1117&ring=8844EE&fire=EAFF17&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=A3A3A3&excludeDaysLabel=FFFFFF&sideLabels=FFFFFF&stroke=EAFF17&border=EAFF17&card_width=437" alt="GitHub Streak Stats">
-    </a>
-    <div align="center">
-</div>
-
-
-
-<div align="center">
-<h3>Pausa pro Café?</h3>
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/40af04fc-bc9e-4581-80ee-30124cb5d17d">
-</a>
-</div>
+⭐️ Do [Diogokranzz](https://github.com/Diogokranzz)
