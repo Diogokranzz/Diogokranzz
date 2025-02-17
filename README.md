@@ -6,7 +6,7 @@
 
 
 
-Sou um desenvolvedor apaixonado por [suas áreas de interesse, ex: desenvolvimento web, APIs, etc. - *Preencha com suas áreas!*]. Estou sempre buscando aprender novas tecnologias e construir projetos incríveis.
+Sou um desenvolvedor apaixonado por desenvolvimento web, APIs, etc. Estou sempre buscando aprender novas tecnologias e construir projetos incríveis.
 
 ---
 <div align="center">
